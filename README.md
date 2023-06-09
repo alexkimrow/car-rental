@@ -8,8 +8,8 @@ Live Demo: <a href='https://car-rental-sage.vercel.app/'>Live Demo</a>
 
 <h3>Build with:</h3>
 
-» Sass / Scss <br>
-» React JS
+- React JS
+- SCSS 
 
 <h2>Screenshots of the Project </h2>
 <br>
