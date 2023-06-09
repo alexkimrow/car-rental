@@ -16,6 +16,14 @@
 <h3 align='center'>Home Page </h3>
 
 <div align='center'>
+![image](https://github.com/alexrodeveloper/car-rental/assets/121688621/2e3acba9-4279-457e-90ed-b8c2f2b6d238)
+![image](https://github.com/alexrodeveloper/car-rental/assets/121688621/dffd7d5f-0123-4bc2-b08f-3213c0ff49b4)
+![image](https://github.com/alexrodeveloper/car-rental/assets/121688621/d27fe6f3-073c-44b3-bc51-6a8f644ba717)
+![image](https://github.com/alexrodeveloper/car-rental/assets/121688621/6d1d285e-78fa-428d-94d5-c7bc5cb6c4be)
+![image](https://github.com/alexrodeveloper/car-rental/assets/121688621/8c2effeb-80ef-4fe7-9dfd-22d349adbdd3)
+![image](https://github.com/alexrodeveloper/car-rental/assets/121688621/113162fc-03cc-4a40-a27f-1cf2db888ac3)
+![image](https://github.com/alexrodeveloper/car-rental/assets/121688621/a3a1d0d4-6919-44bd-8b27-27fb0b198b57)
+![image](https://github.com/alexrodeveloper/car-rental/assets/121688621/8ef075e9-b27f-4578-af24-8fd10bf06d2e)
 
 
 </div>
